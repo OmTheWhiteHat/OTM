@@ -1,2 +1,1 @@
-# OTM
-Odisha Tourism Management
+# Odisha-Tourism-Dynamic
